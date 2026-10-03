@@ -2,7 +2,7 @@
 
 > A lightweight, no-login CRM that puts a team lead's whole world in one place: roster, performance, coaching, leave, and tasks. Built with Streamlit, ships with synthetic demo data, runs free on Streamlit Community Cloud.
 
-**Built by:** [Mohammed Abdul Najeeb](https://github.com/Najeeb-AI-bots) · Operations Manager → AI-Transformation builder
+**Built by:** [Mohammed Abdul Najeeb](https://github.com/Najeeb-AI-bots) · Operations Manager → AI-Transformation builder [Live Now: https://teamflow.streamlit.app/]
 
 ---
 
